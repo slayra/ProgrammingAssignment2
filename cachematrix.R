@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+##Calculates the inverse of a square matrix by turning into into a "CacheMatrix" function and
+##then using first the solve function and second loading
+##the result if it was already calculated
 
 ## This function creates a matrix that is a list of functions that keep the inverse matrix result
 ##if it exists, otherwise it returns a NULL value
